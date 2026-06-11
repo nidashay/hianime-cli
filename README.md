@@ -296,7 +296,7 @@ MIT License - feel free to use, modify, distribute.
 
 <div align="center">
 
-**Made with 💖 by [nidashay](https://github.com/nidashay)**
+**Made with 💖 by [Clinton Gethi (nidashay)](https://github.com/nidashay)**
 
 *Happy watching! 🍿✨*
 
