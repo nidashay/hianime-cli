@@ -19,6 +19,7 @@ ENV/
 .idea/
 *.swp
 *.swo
+.gitignore
 
 # OS
 .DS_Store
